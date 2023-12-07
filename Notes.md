@@ -1,4 +1,3 @@
-
 SQL (Structured query Language) :Yapilandirilmis Sorgu Dili
 PL/SQL (Prodecedural Language/SQL) : Oracle DB
 NoSQL (Not Only SQL) : Iliskisel olmayan veri tabani.Google BigTable,MongoDB,Cassandra,HBase
@@ -11,7 +10,6 @@ Oracle Database Conection Tools
 	SqlCl 
 	SqlPlus        (free) 
 	Sql Developer  (free)
-
 
 --------------------------------------------------------------------------------------------------------------------------------------
 	DBA: VERI TABANI YONETICISI (DATABASE ADMINISTOR)

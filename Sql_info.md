@@ -1,4 +1,3 @@
-Derslerde Islediklerimiz :
 -------------------------------------------------
 AMAZON AWS CLOUD DATABASE **** 
 
@@ -30,7 +29,7 @@ FETCH  *****
 OPERATORLER (AND ,OR ,IN ,BETWEEN ,LIKE )
 
 Fonksiyon -1  (trim power ceil min max count avg sum)
-Fonksiyon -2  Tarih Saat 
+Fonksiyon -2   Tarih Saat 
 
 WHERE
 ORDER BY ASC-DESC
@@ -57,9 +56,6 @@ PL/SQL (INTRO)
 PARTITIONS 
 CURSOR (? MAYBE)
 REGEXP
-
-
-
 
 
 
