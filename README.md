@@ -1,6 +1,6 @@
 <h2>Bitirme Projesi </h2>
 <p> <b>KURULUM : </b></p>
-<p>1- AWS Hesabı Oluşturun </p>
+<p>1- AWS Hesabı oluşturma </p>
 <p>2- PostgreSQL Veritabanı Oluşturun 
 a. IP adresinizi yarattiginiz PostgreSQL in Inbound Rule kismina 
 ekleyin(Security Group) </p>
