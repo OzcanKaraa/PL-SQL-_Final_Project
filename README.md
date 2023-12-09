@@ -1,6 +1,7 @@
 <br>
 <h1>PL/SQL - AMAZON WEB SERVICES PROJECT</h1>
 <br>
+<hr>
 <p> <b>KURULUM : </b></p>
 <p>1- AWS Hesabı oluşturma </p>
 <p>2- PostgreSQL Veritabanı Oluşturun 
